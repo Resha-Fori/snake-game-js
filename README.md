@@ -1,6 +1,6 @@
-# Snack Game لعبة الثعبان
+# Snake Game لعبة الثعبان
 
-full code of snak gmae 
+full code of snake gmae 
 كتابة كود لعبة الثعبان بالكامل
 
 ## Getting Started
